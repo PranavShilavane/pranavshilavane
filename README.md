@@ -5,22 +5,6 @@
 
 - 📫 How to reach me [**👉 📩 👈**](mailto:pranavshilavane1@gmail.com)
 
-<br/>
-<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavshilavane&show_icons=true&locale=en&layout=donut" alt="pranavshilavane" /></p>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavshilavane&show_icons=true&locale=en" alt="sdsad" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavshilavane&" alt="sdsad" /></p>
-
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
@@ -47,3 +31,22 @@
 <img src="./img/vscode.png" alt="c" width="40" height="40"/>
 
 </p>
+
+
+
+
+<br/>
+<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavshilavane&show_icons=true&locale=en&layout=donut" alt="pranavshilavane" /></p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavshilavane&show_icons=true&locale=en" alt="sdsad" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavshilavane&" alt="sdsad" /></p>
