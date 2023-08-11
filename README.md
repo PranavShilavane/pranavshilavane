@@ -22,16 +22,12 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://github.com/pranavshilavane" target="blank"><img align="center" src="./img/github.png" alt="Pranav Shilavane" height="40" width="40" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/pranavshilavane" target="blank"><img align="center" src="./img/instagram.png" alt="Pranav Shilavane" height="30" width="30" /></a>
-&nbsp;&nbsp;
-<a href="https://x.com/pranavshilavane" target="blank"><img align="center" src="./img/x.png" alt="Pranav Shilavane" height="30" width="35" /></a>
-&nbsp;&nbsp;
+<a href="https://github.com/pranavshilavane" target="blank"><img align="center" src="./img/github.png" alt="Pranav Shilavane" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/pranavshilavane" target="blank"><img align="center" src="./img/instagram.png" alt="Pranav Shilavane" height="30" width="30" /></a>&nbsp;&nbsp;<a href="https://x.com/pranavshilavane" target="blank"><img align="center" src="./img/x.png" alt="Pranav Shilavane" height="30" width="35" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/pranav-shilavane-9245b8236/" target="blank"><img align="center" src="./img/linked.png" alt="Pranav Shilavane" height="30" width="30"/></a>
 <br/>
   
-<a href="https://www.linkedin.com/in/pranav-shilavane-9245b8236/" target="blank"><img align="center" src="./img/linked.png" alt="Pranav Shilavane" height="30" width="30"/></a>
-</p><p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavshilavane&show_icons=true&locale=en&layout=donut" alt="pranavshilavane" /></p>
+</p>
+  <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavshilavane&show_icons=true&locale=en&layout=donut" alt"pranavshilavane" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavshilavane&show_icons=true&locale=en" alt="sdsad" /></p>
+<p>
 <br/>
 <br/>
 <br/>
@@ -41,6 +37,5 @@
 <br/>
 <br/>
 <br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavshilavane&show_icons=true&locale=en" alt="sdsad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavshilavane&" alt="sdsad" /></p>
