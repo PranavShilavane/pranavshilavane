@@ -29,13 +29,4 @@
   <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavshilavane&show_icons=true&locale=en&layout=donut" alt"pranavshilavane" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavshilavane&show_icons=true&locale=en" alt="sdsad" /></p>
 <p>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavshilavane&" alt="sdsad" /></p>
