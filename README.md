@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <h3>A passionate web developer </h3>
-<br/>
+
 - 🌱 I’m currently learning **Web development**
 
 - 📫 How to reach me [**👉 📩 👈**](mailto:pranavshilavane1@gmail.com)
 
+<br/>
 <p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavshilavane&show_icons=true&locale=en&layout=donut" alt="pranavshilavane" /></p>
 <br/>
 <br/>
