@@ -28,12 +28,10 @@
 &nbsp;&nbsp;
 <a href="https://x.com/pranavshilavane" target="blank"><img align="center" src="./img/x.png" alt="Pranav Shilavane" height="30" width="35" /></a>
 &nbsp;&nbsp;
+<br/>
+  
 <a href="https://www.linkedin.com/in/pranav-shilavane-9245b8236/" target="blank"><img align="center" src="./img/linked.png" alt="Pranav Shilavane" height="30" width="30"/></a>
-</p>
-
-<br/>
-<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavshilavane&show_icons=true&locale=en&layout=donut" alt="pranavshilavane" /></p>
-<br/>
+</p><p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavshilavane&show_icons=true&locale=en&layout=donut" alt="pranavshilavane" /></p>
 <br/>
 <br/>
 <br/>
