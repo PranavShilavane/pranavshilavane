@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <h3>A passionate web developer </h3>
 <br/>
-
 - 🌱 I’m currently learning **Web development**
 
 - 📫 How to reach me [**👉 📩 👈**](mailto:pranavshilavane1@gmail.com)
